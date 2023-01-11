@@ -1,6 +1,6 @@
 # Morse Code Translator in Python
 Translates text to morse code or morse code to text by using self defined functions. 
-Includes Tkinter to add simple GUI to make the program easy to use.
+Includes Tkinter to add simple GUI to make the program easier to use.
 
 It has simple usage thanks to Tkinter. All you need to do is input your text or morse code to box above and choose the translation type.
 
